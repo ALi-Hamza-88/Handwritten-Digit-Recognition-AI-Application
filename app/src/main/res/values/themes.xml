@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="buttonStyle">@style/AppButton</item>
+    </style>
+
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication" />
+
+    <!-- Custom Button Styles for 12dp Rounded Corners -->
+    <style name="AppButton" parent="Widget.Material3.Button">
+        <item name="shapeAppearance">@style/ShapeAppearance.App.ButtonCorner</item>
+    </style>
+
+    <style name="AppOutlinedButton" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="shapeAppearance">@style/ShapeAppearance.App.ButtonCorner</item>
+    </style>
+
+    <style name="ShapeAppearance.App.ButtonCorner" parent="ShapeAppearance.Material3.Corner.Medium">
+        <item name="cornerSize">12dp</item>
+    </style>
+</resources>
