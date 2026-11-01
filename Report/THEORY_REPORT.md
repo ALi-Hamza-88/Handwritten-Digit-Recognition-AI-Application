@@ -1,9 +1,9 @@
-::: {align="center"}
-# INSTITUTE OF SPACE TECHNOLOGY
+<p align="center">
 
+# INSTITUTE OF SPACE TECHNOLOGY
 ## KICSIT, Kahuta Campus
 
-`<br>`{=html}
+<br>
 
 # ASSIGNMENT NO. 2
 
@@ -11,12 +11,11 @@
 
 ### Integrating ML/DL Models into Android with TensorFlow Lite
 
-`<br>`{=html}
-
 ### THEORY REPORT
 
 **BSCS-5B**
-:::
+
+</p>
 
 ------------------------------------------------------------------------
 
@@ -26,13 +25,13 @@
 
 **SERIAL NO.:** 38
 
-**SUBJECT:** Artificial Intelligence
+**SUBJECT:** Mobile App Developement
 
 **PROJECT TITLE:** Handwritten Digit Recognition AI Application
 
-**SUBMITTED TO:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**SUBMITTED TO:** Sir Uzair
 
-**SUBMISSION DATE:** 01/11/2026
+**SUBMISSION DATE:** 06/11/2026
 
 ------------------------------------------------------------------------
 
