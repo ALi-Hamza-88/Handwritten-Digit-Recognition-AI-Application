@@ -25,13 +25,13 @@
 
 **SERIAL NO.:** 38
 
-**SUBJECT:** Artificial Intelligence
+**SUBJECT:** Mobile App Developement
 
 **PROJECT TITLE:** Handwritten Digit Recognition AI Application
 
-**SUBMITTED TO:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**SUBMITTED TO:** Sir Uzair
 
-**SUBMISSION DATE:** 01/11/2026
+**SUBMISSION DATE:** 06/11/2026
 
 ------------------------------------------------------------------------
 
