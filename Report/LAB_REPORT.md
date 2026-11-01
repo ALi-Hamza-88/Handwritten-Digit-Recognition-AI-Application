@@ -78,10 +78,7 @@ uses Java for application logic and XML for the user interface.
 
 **Screenshot 1: Android Studio project structure**
 
-*Add your Android Studio project structure screenshot here.*
-
-![Android Studio project
-structure](project/Screenshots/project-structure.png)
+<img src="Screenshots/Project-Structure.jpeg" width="250" alt="Project Structure">
 
 ## 4.2 Preparing the Deep Learning Model
 
@@ -98,8 +95,7 @@ directory.
 
 **Screenshot 2: Model training or conversion output**
 
-*Add a screenshot of your actual model training or conversion output
-here.*
+<img src="Screenshots/Model-Training.jpeg" width="250" alt="Model Training">
 
 ## 4.3 Designing the User Interface
 
@@ -112,12 +108,12 @@ The application interface was designed using XML. It contains:
 -   Prediction result.
 -   Confidence percentage.
 
-The interface uses a dark background, a black drawing area, and purple
+The interface uses a white background, a black drawing area, and purple
 buttons.
 
 **Screenshot 3: Application interface**
 
-![Application interface](project/Screenshots/digit-7.jpeg)
+<img src="Screenshots/Interface.jpeg" width="250" alt="Interface.">
 
 ## 4.4 DrawingView Implementation
 
@@ -172,7 +168,7 @@ The application was tested by drawing handwritten digits on the canvas.
 -   **Displayed confidence:** 100%.
 -   **Result:** Correct prediction.
 
-![Digit 7 prediction](project/Screenshots/digit-7.jpeg)
+![Digit 7 prediction](project/Screenshots/Screenshot-1.jpeg)
 
 ## 5.2 Test Case 2: Recognition of Digit 3
 
@@ -182,7 +178,7 @@ The application was tested by drawing handwritten digits on the canvas.
 -   **Displayed confidence:** 35%.
 -   **Result:** Incorrect prediction.
 
-![Digit 3 prediction](project/Screenshots/digit-3.jpeg)
+![Digit 3 prediction](project/Screenshots/Screenshot-2jpeg)
 
 ## 5.3 Testing Summary
 
