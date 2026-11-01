@@ -12,7 +12,7 @@ Users can draw a digit on the screen, and the application predicts the digit wit
 
 ### Digit Recognition – 3
 
-![Digit 3 Prediction](project/Screenshots/Screenshot-2jpeg)
+![Digit 3 Prediction](project/Screenshots/Screenshot-2.jpeg)
 
 ## ✨ Features
 
