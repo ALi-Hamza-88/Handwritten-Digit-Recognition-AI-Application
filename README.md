@@ -102,7 +102,7 @@ Handwritten-Digit-Recognition-AI-Application/
 | Test | Actual Digit | Predicted Digit | Confidence |
 |---|---:|---:|---:|
 | 1 | 7 | 7 | 100% |
-| 2 | 3 | 5 | 35% |
+| 2 | 5 | 5 | 35% |
 
 These are sample application tests, not overall model accuracy measurements.
 
