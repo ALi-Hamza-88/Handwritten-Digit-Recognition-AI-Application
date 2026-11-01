@@ -8,13 +8,11 @@ Users can draw a digit on the screen, and the application predicts the digit wit
 
 ### Digit Recognition – 7
 
-![Digit 7 Prediction](project/Screenshots/Screenshot 1.jpeg)
+![Digit 7 Prediction](project/Screenshots/Screenshot-1.jpeg)
 
 ### Digit Recognition – 3
 
-![Digit 3 Prediction](Screenshots/digit-3.jpeg)
-
-*Note: Update the image paths above to match the actual filenames in your Screenshots folder.*
+![Digit 3 Prediction](project/Screenshots/Screenshot-2jpeg)
 
 ## ✨ Features
 
