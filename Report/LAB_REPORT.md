@@ -1,9 +1,9 @@
-::: {align="center"}
-# INSTITUTE OF SPACE TECHNOLOGY
+<p align="center">
 
+# INSTITUTE OF SPACE TECHNOLOGY
 ## KICSIT, Kahuta Campus
 
-`<br>`{=html}
+<br>
 
 # ASSIGNMENT NO. 2
 
@@ -11,12 +11,11 @@
 
 ### Integrating ML/DL Models into Android with TensorFlow Lite
 
-`<br>`{=html}
-
 ### LAB / PRACTICAL REPORT
 
 **BSCS-5B**
-:::
+
+</p>
 
 ------------------------------------------------------------------------
 
