@@ -76,9 +76,12 @@ The main objectives of this practical are:
 An Android project was opened or created in Android Studio. The project
 uses Java for application logic and XML for the user interface.
 
-**Screenshot 1: Android Studio project structure**
 
-<img src="Screenshots/Project-Structure.png" width="250" alt="Project Structure">
+<p align="center">
+  <img src="Screenshots/Project-Structure.png" width="250" alt="Digit 7">
+  <br>
+  <strong>Screenshot 1: Android Studio project structure</strong>
+</p>
 
 ## 4.2 Preparing the Deep Learning Model
 
@@ -93,9 +96,11 @@ The model file used by the application is:
 The model should be placed in the Android application's assets
 directory.
 
-**Screenshot 2: Model training or conversion output**
-
-<img src="Screenshots/Model-Training.png" width="250" alt="Model Training">
+<p align="center">
+  <img src="Screenshots/Model-Training.png" width="250" alt="Digit 7">
+  <br>
+  <strong>Screenshot 2: Model training or conversion output</strong>
+</p>
 
 ## 4.3 Designing the User Interface
 
@@ -111,9 +116,11 @@ The application interface was designed using XML. It contains:
 The interface uses a white background, a black drawing area, and purple
 buttons.
 
-**Screenshot 3: Application interface**
-
-<img src="Screenshots/Interface.png" width="250" alt="Interface.">
+<p align="center">
+  <img src="Screenshots/Interface.png" width="250" alt="Digit 7">
+  <br>
+  <strong>Screenshot 3: Application interface</strong>
+</p>
 
 ## 4.4 DrawingView Implementation
 
@@ -168,17 +175,25 @@ The application was tested by drawing handwritten digits on the canvas.
 -   **Displayed confidence:** 100%.
 -   **Result:** Correct prediction.
 
-![Digit 7 prediction](project/Screenshots/Screenshot-1.jpeg)
+<p align="center">
+  <img src="../project/Screenshots/Screenshot-1.jpeg" width="250" alt="Digit 7">
+  <br>
+  <strong>Figure 1: Recognition of Digit 7</strong>
+</p>
 
 ## 5.2 Test Case 2: Recognition of Digit 3
 
--   **Input:** User draws digit 3.
--   **Expected output:** 3.
+-   **Input:** User draws digit 5.
+-   **Expected output:** 5.
 -   **Actual output:** 5.
 -   **Displayed confidence:** 35%.
--   **Result:** Incorrect prediction.
+-   **Result:** Correct prediction.
 
-![Digit 3 prediction](project/Screenshots/Screenshot-2jpeg)
+<p align="center">
+  <img src="../project/Screenshots/Screenshot-2.jpeg" width="250" alt="Digit 3">
+  <br>
+  <strong>Figure 1: Recognition of Digit 7</strong>
+</p>
 
 ## 5.3 Testing Summary
 
