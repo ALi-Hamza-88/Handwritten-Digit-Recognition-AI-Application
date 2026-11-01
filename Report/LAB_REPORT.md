@@ -78,7 +78,7 @@ uses Java for application logic and XML for the user interface.
 
 **Screenshot 1: Android Studio project structure**
 
-<img src="Screenshots/Project-Structure.jpeg" width="250" alt="Project Structure">
+<img src="Screenshots/Project-Structure.png" width="250" alt="Project Structure">
 
 ## 4.2 Preparing the Deep Learning Model
 
@@ -95,7 +95,7 @@ directory.
 
 **Screenshot 2: Model training or conversion output**
 
-<img src="Screenshots/Model-Training.jpeg" width="250" alt="Model Training">
+<img src="Screenshots/Model-Training.png" width="250" alt="Model Training">
 
 ## 4.3 Designing the User Interface
 
@@ -113,7 +113,7 @@ buttons.
 
 **Screenshot 3: Application interface**
 
-<img src="Screenshots/Interface.jpeg" width="250" alt="Interface.">
+<img src="Screenshots/Interface.png" width="250" alt="Interface.">
 
 ## 4.4 DrawingView Implementation
 
